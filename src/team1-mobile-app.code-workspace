@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../markup-hw/goit-markup-hw-06/.vscode"
+		},
+		{
+			"path": "../../../markup-hw/goit-markup-hw-06/js"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "team1-mobile-app"
+	}
+}
